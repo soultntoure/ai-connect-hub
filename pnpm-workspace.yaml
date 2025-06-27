@@ -1,0 +1,3 @@
+packages:
+  - 'apps/*'
+  # - 'packages/*' # Uncomment if you introduce shared libraries/components
